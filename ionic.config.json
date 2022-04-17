@@ -1,0 +1,7 @@
+{
+  "name": "lab01_mapd722",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
